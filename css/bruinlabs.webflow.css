@@ -919,6 +919,103 @@ a {
   max-width: none;
 }
 
+.image-28 {
+  position: absolute;
+  left: auto;
+  top: 0%;
+  right: 0%;
+  bottom: auto;
+  width: 2.5em;
+  margin-top: 12em;
+  margin-right: 29em;
+  margin-left: 0px;
+}
+
+.image-29 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: auto;
+  bottom: auto;
+  width: 2em;
+  margin-top: 415px;
+  margin-left: 172px;
+}
+
+.image-30 {
+  position: absolute;
+  width: 2em;
+  margin-top: -346px;
+  margin-left: 228px;
+}
+
+.image-31 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: auto;
+  bottom: auto;
+  margin-top: 161px;
+  margin-left: -44px;
+}
+
+.image-32 {
+  position: absolute;
+  width: 2em;
+  margin-top: -672px;
+  margin-left: 50px;
+}
+
+.image-33 {
+  position: absolute;
+  left: 0%;
+  top: auto;
+  right: auto;
+  bottom: 0%;
+  margin-bottom: 31px;
+  margin-left: 476px;
+}
+
+.image-34 {
+  position: absolute;
+  width: 2em;
+  margin-top: 578px;
+  margin-left: -500px;
+}
+
+.image-35 {
+  position: absolute;
+  left: auto;
+  top: 0%;
+  right: 0%;
+  bottom: auto;
+  width: 4em;
+  margin-top: 943px;
+  margin-right: 366px;
+}
+
+.image-36 {
+  position: absolute;
+  left: 0%;
+  top: auto;
+  right: auto;
+  bottom: 0%;
+  width: 3em;
+  margin-top: 0px;
+  margin-bottom: 343px;
+  margin-left: 135px;
+}
+
+.image-37 {
+  position: absolute;
+  left: auto;
+  top: auto;
+  right: 0%;
+  bottom: 0%;
+  margin-right: 419px;
+  margin-bottom: 44px;
+}
+
 @media screen and (max-width: 991px) {
   .image {
     width: 150%;
@@ -971,6 +1068,38 @@ a {
   .image-27 {
     width: 10em;
     height: 10em;
+  }
+  .image-28 {
+    margin-top: 9.6em;
+    margin-right: 10.4em;
+  }
+  .image-29 {
+    margin-left: 47px;
+  }
+  .image-30 {
+    margin-top: -400px;
+    margin-left: 167px;
+  }
+  .image-33 {
+    margin-left: 263px;
+  }
+  .image-34 {
+    width: 1.5em;
+    margin-left: -263px;
+  }
+  .image-35 {
+    width: 3em;
+    margin-top: 908px;
+    margin-right: 190px;
+  }
+  .image-36 {
+    width: 2em;
+    margin-left: 81px;
+  }
+  .image-37 {
+    width: 2em;
+    margin-right: 238px;
+    margin-bottom: 110px;
   }
 }
 
@@ -1026,6 +1155,33 @@ a {
   .image-27 {
     width: 7em;
     height: 7em;
+  }
+  .image-28 {
+    margin-right: 4.6em;
+  }
+  .image-29 {
+    margin-left: 32px;
+  }
+  .image-30 {
+    margin-top: -435px;
+  }
+  .image-33 {
+    margin-bottom: 0px;
+    margin-left: 184px;
+  }
+  .image-34 {
+    width: 1em;
+    margin-left: -195px;
+  }
+  .image-35 {
+    margin-top: 1236px;
+    margin-right: 108px;
+  }
+  .image-36 {
+    margin-left: 30px;
+  }
+  .image-37 {
+    margin-right: 207px;
   }
 }
 
@@ -1158,8 +1314,8 @@ a {
     padding-bottom: 59px;
   }
   .image-25 {
-    width: 6em;
-    height: 6em;
+    width: 5em;
+    height: 5em;
   }
   .div-block-6 {
     width: 70%;
@@ -1174,12 +1330,65 @@ a {
     align-items: center;
   }
   .image-26 {
-    width: 6em;
-    height: 6em;
+    width: 5em;
+    height: 5em;
   }
   .image-27 {
-    width: 6em;
-    height: 6em;
+    width: 5em;
+    height: 5em;
+  }
+  .image-28 {
+    width: 1.5em;
+    margin-top: 54%;
+    margin-right: 2.9em;
+  }
+  .image-29 {
+    width: 1em;
+    margin-top: 420px;
+    margin-left: 20px;
+  }
+  .image-30 {
+    width: 1em;
+    margin-top: -339px;
+    margin-left: 83px;
+  }
+  .image-31 {
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    right: auto;
+    bottom: auto;
+    width: 1.5em;
+    margin-top: 109px;
+    margin-left: 18px;
+  }
+  .image-32 {
+    width: 1em;
+    margin-top: -512px;
+    margin-left: 13px;
+  }
+  .image-33 {
+    width: 1em;
+    margin-bottom: 10px;
+    margin-left: 199px;
+  }
+  .image-34 {
+    margin-top: 623px;
+    margin-left: -93px;
+  }
+  .image-35 {
+    width: 2em;
+    margin-top: 1092px;
+    margin-right: 62px;
+  }
+  .image-36 {
+    width: 1.5em;
+    margin-bottom: 324px;
+    margin-left: 8px;
+  }
+  .image-37 {
+    width: 1.5em;
+    margin-right: 104px;
   }
 }
 
